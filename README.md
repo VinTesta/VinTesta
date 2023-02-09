@@ -1,5 +1,5 @@
 <h4>
-  Hey! My name is Vinicius Testa and i am a software developer
+  Hey! My name is Vinicius Testa and I am a FullStack software developer!
 </h4>
 
 <div> 
